@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_ATLAS_USER": "dhiral_admin",
+    "MONGO_ATLAS_PW": "dhiral3112",
+    "MONGO_DB_NAME": "node-angular",
+    "JWT_KEY": "secret_this_should_be_long_string"
+  }
+}
